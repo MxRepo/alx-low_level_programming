@@ -2,8 +2,8 @@
 
 /**
  * print_alphabetx10 - Check holberton
- * Description: function uses _putchar function to print
- * alphabet in lowercase 10 times
+ * Description: function uses _putchar function to print_alphabet_x10 
+ * in lowercase 10 times
  * Return: Nothing.
  */
 
