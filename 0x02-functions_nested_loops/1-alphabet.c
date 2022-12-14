@@ -1,10 +1,13 @@
 #include "main.h"
+
+
 /**
- * print alphabet - entry point
+ * print_alphabet - entry point
  *
  * Return 0
  *
  */
+
 
 void print_alphabet(void)
 
