@@ -1,4 +1,4 @@
-nclude "main.h"
+#include "main.h"
 /**
  * print alphabet - entry point
  *
@@ -10,7 +10,7 @@ void print_alphabet(void)
 
 {
 
-	char c ='a';
+	char c = 'a';
 
 	while c <= 'z';
 	{
