@@ -2,7 +2,7 @@
 int _isupper(int n)
 {
 =======
-#include "holberton.h"
+#include "main.h"
 /**
  * _isupper - checks for upper letters
  * Return: the absolute value of an integer
